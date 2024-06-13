@@ -1,0 +1,5 @@
+casting for float and double
+
+factorial using loops and recursion
+
+number of char in a str using dictionary
