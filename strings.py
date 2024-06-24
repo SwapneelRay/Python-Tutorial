@@ -15,6 +15,8 @@ print(strsingle)
 print(type(strsingle))
 print(type(strdouble))
 
-age = int(input("what's your age"))
-print("you are "+str(age)+" years old")
-print(type(age))
+
+
+x="abc"
+print(x)
+print(x.upper())

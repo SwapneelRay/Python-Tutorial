@@ -1,5 +1,3 @@
-
-
 def func():
     global x
     x = "local"
