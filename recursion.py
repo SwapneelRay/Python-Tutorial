@@ -17,4 +17,4 @@ def recur_function(n,a=1):
     
     return recur_function(n-1,n*a)
 
-print(recur_function(6))
+print(recur_function(6))#calling function by name
