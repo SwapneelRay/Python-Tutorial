@@ -4,3 +4,5 @@ important! factorial using loops and recursion
 important! modulus opertor
 
 number of char in a str using dictionary
+
+postorder travesal
