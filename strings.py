@@ -17,6 +17,7 @@ print(type(strdouble))
 
 
 
-x="abc"
+x="abc123"
 print(x)
 print(x.upper())
+print(x.isalnum())
