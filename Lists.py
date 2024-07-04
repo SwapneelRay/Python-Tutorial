@@ -30,3 +30,9 @@ list1.insert(0,25)
 print(list1)
 list1.remove(25)
 print(list1)
+
+string = "hello my name is xyz"
+
+strlist = list(string)
+
+print(strlist)

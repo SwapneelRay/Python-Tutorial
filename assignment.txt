@@ -6,3 +6,7 @@ important! modulus opertor
 number of char in a str using dictionary
 
 postorder travesal
+
+fliter using user defined function
+
+filter using class and user defined function
