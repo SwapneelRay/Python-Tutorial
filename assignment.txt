@@ -10,3 +10,7 @@ postorder travesal
 fliter using user defined function
 
 filter using class and user defined function
+
+slicing on strings
+
+Pig Latin example
