@@ -14,3 +14,10 @@ filter using class and user defined function
 slicing on strings
 
 Pig Latin example
+
+WAP to ask the user to enter names of 3 movies and store them in list
+WAP to check if a list contains a palindrome of of elements //
+[1,2,1]
+[1,2,3] // DAD ,MOM
+WAP to count the number of A grades in a tuple
+(C,D,A,A,B,B,A)

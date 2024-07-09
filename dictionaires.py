@@ -1,5 +1,5 @@
 Dict1 ={
-    # "Key": "Value"
+    # "items": "Value"
     "Name":"xyz",
     "Age":24,
     "Salary":55555,
@@ -11,7 +11,8 @@ Dict1 ={
 # print(type(Dict1))
 # Dict1["Name"] = "xyz"
 
-
+print(Dict1.items())
+print(Dict1.values())
 
 print(len(Dict1))
 
