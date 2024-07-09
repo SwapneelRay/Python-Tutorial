@@ -5,7 +5,7 @@ def recursion(n):
     else:
         return(recursion(n-1)+recursion(n-2))
     
-terms = int(input("number of terms"))
+terms = int(input("number of terms"))//5
 for i in range(terms):
     print(recursion(i))
     
