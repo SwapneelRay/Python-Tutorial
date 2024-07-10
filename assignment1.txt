@@ -21,8 +21,4 @@ WAP to check if a list contains a palindrome of of elements //
 [1,2,3] // DAD ,MOM
 WAP to count the number of A grades in a tuple
 (C,D,A,A,B,B,A)
- WAP to handle txt files with readline, readlines,writelines
-
- ##################################EOF############################################
- 
-
+ WAP to handle txt files
